@@ -1,0 +1,16 @@
+{
+    "url": "https://ux1p.github.io/swagger/small.yaml",
+    "urls": [{
+        "url": "https://ux1p.github.io/swagger/img.yaml",
+        "name": "imgux"
+    },{
+        "url": "https://ux1p.github.io/swagger/if.yaml",
+        "name": "ifux"
+    },{
+        "url": "https://ux1p.github.io/swagger/base.yaml",
+        "name": "baseux"
+    },{
+        "url": "https://ux1p.github.io/swagger/ekaf.yaml",
+        "name": "ekafux"
+    }]
+}
